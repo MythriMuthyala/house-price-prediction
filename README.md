@@ -27,3 +27,5 @@ Steps:
     The output can be visualized in the command prompt and the Docker Desktop app
 
 Output: ![my3 proof execution of house price prediction](https://github.com/user-attachments/assets/d5547cdb-172c-4b7a-86aa-3e00e679d633)
+![test-1 proof of jenkins](https://github.com/user-attachments/assets/cd91036b-2021-4c97-bb0e-60c2873b78a0)
+
